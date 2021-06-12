@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="UnpredictableSystem:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/UnpredictableSystem_jar</output-path>
+    <root id="archive" name="UnpredictableSystem.jar">
+      <element id="module-output" name="UnpredictableSystem" />
+    </root>
+  </artifact>
+</component>
